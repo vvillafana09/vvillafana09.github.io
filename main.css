@@ -46,3 +46,9 @@ section {
 footer, p {
     text-align: center;
 }
+
+#desc-text {
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
